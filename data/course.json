@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "de1a3f2c-6cec-7107-a00a-b69ca71460cd",
+      "30f2f127-1097-0f7f-10cc-0506be053cbd",
+      "629dcaad-3541-fa06-6def-d8e41bb67e9b",
+      "ab4c246d-ac2e-379b-b7d3-0fbf45a6dfbd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Experimental Physics I & II \"Junior Lab\"",
+  "course_description": "Junior Lab consists of two undergraduate courses in experimental physics. The course sequence is usually taken by Juniors (hence the name). Officially, the courses are called Experimental Physics I and II and are numbered 8.13 for the first half, given in the fall semester, and 8.14 for the second half, given in the spring.\n\nEach term, students do experiments on phenomena whose discoveries led to major advances in physics. In the process, they deepen their understanding of the relations between experiment and theory, mostly in atomic and nuclear physics.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.13-14",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}

@@ -1,0 +1,183 @@
+leftnav:
+- identifier: c531b2ff-413e-84c4-11a6-98b6cc116edd
+  name: Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: f1df09ba-8695-da97-9a12-7711b3ce6675
+  name: Schedule Summaries
+  parent: c531b2ff-413e-84c4-11a6-98b6cc116edd
+  url: /pages/syllabus/schedule-summaries
+  weight: 20
+- identifier: 2fe61734-9df6-5bf3-7a9c-ca6e1b5f4bd9
+  name: Readings
+  parent: c531b2ff-413e-84c4-11a6-98b6cc116edd
+  url: /pages/syllabus/readings
+  weight: 30
+- identifier: 2820c983-4125-9d82-58a7-3d23a77dc986
+  name: Expectations and Grading Policy
+  parent: c531b2ff-413e-84c4-11a6-98b6cc116edd
+  url: /pages/syllabus/expectations-and-grading-policy
+  weight: 40
+- identifier: 6c3edbd8-8f2c-3782-ac65-107cfbe910a2
+  name: Ethics in Science and Education
+  parent: c531b2ff-413e-84c4-11a6-98b6cc116edd
+  url: /pages/syllabus/ethics
+  weight: 50
+- identifier: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  name: Instructor Insights
+  url: /pages/instructor-insights/
+  weight: 60
+- identifier: a271826a-30de-6238-1cf3-804c767a9385
+  name: Prof. Janet Conrad's Insights
+  parent: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  url: /pages/instructor-insights/prof--janet-conrads-insights
+  weight: 70
+- identifier: 922d7381-664d-46c5-dc1b-cfa2cf15f549
+  name: Prof. Gunther Roland's Insights
+  parent: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  url: /pages/instructor-insights/prof--gunther-rolands-insights
+  weight: 80
+- identifier: 40352493-07bd-3b78-544a-4fd4d59fc70d
+  name: Dr. Sean Robinson's Insights
+  parent: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  url: /pages/instructor-insights/dr--sean-robinsons-insights
+  weight: 90
+- identifier: 411e7f05-35f9-06f4-add2-ac09d12f03ec
+  name: Atissa Banuazizi's Insights
+  parent: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  url: /pages/instructor-insights/atissa-banuazizis-insights
+  weight: 100
+- identifier: 7bad2224-0cbc-dcad-cff8-911c9e051922
+  name: Student Insights
+  parent: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  url: /pages/instructor-insights/student-insights
+  weight: 110
+- identifier: 30d61f99-17e2-40c5-9220-a191ea9b7ac9
+  name: "Re-Designing \u201CJunior Lab\u201D"
+  parent: acfc780e-5759-0f17-e6e5-6b834507e6a2
+  url: /pages/instructor-insights/re-designing-junior-lab
+  weight: 120
+- identifier: 29d99fa0-479e-dbce-b118-6e508eb8b5a3
+  name: Laboratory Safety and Regulations
+  url: /pages/safety-in-junior-lab
+  weight: 130
+- identifier: b6c21d9d-b22c-72ff-13a3-232d88222fa2
+  name: Lab Notebooks
+  url: /pages/requirements-for-experimental-notebooks
+  weight: 140
+- identifier: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  name: Experiments
+  url: /pages/experiments/
+  weight: 150
+- identifier: 012572fc-f382-c70b-fb3f-018c24c0232b
+  name: Photoelectric Effect
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/photoelectric-effect
+  weight: 160
+- identifier: 75583187-1f13-d728-f8f4-c79b2c45e23d
+  name: Poisson Statistics
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/poisson-statistics
+  weight: 170
+- identifier: 4bad42bd-ddc0-4bea-2d48-03b97bd58573
+  name: Michelson Interferometer
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/michelson-interferometer
+  weight: 180
+- identifier: 9fc6c7e8-5f55-51e1-f3d7-2213d8befe8e
+  name: Compton Scattering
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/compton-scattering
+  weight: 190
+- identifier: 4adf3b76-1be8-0bfe-61c0-e48e92d36eb3
+  name: The Franck-Hertz Experiment
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/the-franck-hertz-experiment
+  weight: 200
+- identifier: 3eda3f91-abff-3029-6f5e-15682be1b322
+  name: Relativistic Dynamics
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/relativistic-dynamics
+  weight: 210
+- identifier: cc00ee06-833e-3831-7fae-8048ce1568e7
+  name: 'Pulsed NMR: Spin Echoes'
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/pulsed-nmr-spin-echoes
+  weight: 220
+- identifier: 33e90d1d-1125-2307-13a9-67e1abd752dd
+  name: The Speed and Mean Life of Cosmic-Ray Muons
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/the-speed-and-mean-life-of-cosmic-ray-muons
+  weight: 230
+- identifier: 6a6e6e85-05a9-4bba-fea7-59a058529e6e
+  name: Rutherford Scattering
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/rutherford-scattering
+  weight: 240
+- identifier: b48d711e-6977-c6b6-a6c9-04ad05b71041
+  name: Optical Emission Spectra of Hydrogenic Atoms
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/optical-emission-spectra-of-hydrogenic-atoms
+  weight: 250
+- identifier: 49f2e6e7-74c8-6a6f-4e5a-f744e6c5818f
+  name: X-Ray Physics
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/x-ray-physics
+  weight: 260
+- identifier: b579e8df-ec61-2cb7-e6a4-dae345aa3b4c
+  name: Johnson Noise and Shot Noise
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/johnson-noise-and-shot-noise
+  weight: 270
+- identifier: 39a125da-244b-c933-ce92-e887bb9b9820
+  name: 21-cm Radio Astrophysics
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/21-cm-radio-astrophysics
+  weight: 280
+- identifier: 67f35334-98bb-7b1a-b663-008618c3daa2
+  name: Optical Trapping
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/optical-trapping
+  weight: 290
+- identifier: 221808c6-1c60-8ff6-d63c-6012f46f649b
+  name: Optical Pumping of Rubidium Vapor
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/optical-pumping-of-rubidium-vapor
+  weight: 300
+- identifier: f93c78b6-ced8-d63a-326f-cce14d6b843d
+  name: "M\xF6ssbauer Spectroscopy"
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/moessbauer-spectroscopy
+  weight: 310
+- identifier: 88cf3df1-af6e-bbee-2d0c-2dbad78e0b62
+  name: Superconductivity
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/superconductivity
+  weight: 320
+- identifier: 06030ef9-ad2a-c841-c3d8-0034d24b9dde
+  name: Doppler-Free Laser Spectroscopy
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/doppler-free-laser-spectroscopy
+  weight: 330
+- identifier: 4ab3ef87-903c-8a86-69f4-79e16a8a8e13
+  name: Quantum Information Processing
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/quantum-information-processing
+  weight: 340
+- identifier: 4003d308-cc55-7cc5-4925-46f780cfad5f
+  name: Raman Spectroscopy
+  parent: e52e9a2b-7600-071c-81b1-6a6630eb394d
+  url: /pages/experiments/raman-spectroscopy
+  weight: 350
+- identifier: 37724ef0-39b0-1ee5-0afa-95aa804d8a20
+  name: Reports and Presentations
+  url: /pages/written-and-oral-report-resources
+  weight: 360
+- identifier: 110bac00-b291-676e-17bd-4229213a2b6f
+  name: Student Presentations
+  url: /pages/student-presentations
+  weight: 370
+- identifier: c0fd6569-ea2b-f085-29bb-f8817e92b3bb
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 380
